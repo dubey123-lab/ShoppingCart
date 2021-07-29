@@ -1,0 +1,61 @@
+.signup-paper {
+  height: 650px;
+  width: 480px;
+  margin-top: 100px;
+  background-color: azure;
+}
+.signup_title {
+  padding-top: 30px;
+  font-size: 46px !important;
+  font-weight: 700 !important;
+  text-align: center;
+}
+
+.signup_typography {
+  font-weight: 700 !important;
+}
+
+.radio_btn_grid_item {
+  padding-top: 20px;
+}
+.radio_btn_title {
+  font-size: 19px !important;
+  font-weight: 600 !important;
+}
+
+.name_grid_item {
+  display: flex;
+  justify-content: center;
+}
+.name_input_filed {
+  padding-left: 80px;
+  height: 20px !important;
+  width: 300px;
+}
+
+/* .input_filed_labels {
+  margin-right: 229px;
+} */
+
+.signup_btn {
+  padding-top: 20px;
+}
+
+.otp_text_filed {
+  padding-top: 10px;
+  margin-left: 5px !important;
+  width: 50px;
+  height: 20px !important;
+}
+.otp-btn {
+  height: 40px;
+  padding-left: 20px;
+}
+
+.otp_textbox {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  margin-left: 39px !important;
+  padding-top: 20px;
+}

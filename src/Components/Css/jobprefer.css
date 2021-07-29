@@ -1,0 +1,13 @@
+.location_dropdown {
+  margin-top: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  width: 50%;
+  margin-left: 37px !important;
+}
+
+.location_list_title {
+  font-weight: 700 !important;
+  margin-top: 10px !important;
+}

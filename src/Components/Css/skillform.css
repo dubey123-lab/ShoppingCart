@@ -1,0 +1,52 @@
+.addfrom-paper {
+  margin-top: 60px;
+  height: 800px;
+  width: 700px;
+}
+.skill_form_titile {
+  padding-top: 40px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.add_skill_item {
+  display: flex;
+  justify-content: flex-start;
+  margin-left: 50px !important;
+  margin-top: 20px !important;
+}
+.experience_grid_section {
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+  margin-left: 50px !important;
+  margin-top: 20px !important;
+}
+
+.role_grid_item {
+  display: flex;
+  flex-direction: column;
+  width: 55%;
+  text-align: start;
+  margin-left: 50px !important;
+  margin-top: 20px !important;
+}
+
+.dynamic_text_filed {
+  width: 85%;
+  margin-left: 42px !important;
+  padding-top: 13px;
+}
+
+.dynamic_dropdown {
+  margin-left: 40px !important;
+  width: 50%;
+}
+
+.delete_icon {
+  width: 10%;
+}
+.experience_textfiled {
+  width: 290px;
+  padding-right: 20px;
+}
